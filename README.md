@@ -1,1 +1,8 @@
-# -MACHINE-LEARNING-MODEL-IMPLEMENTATION
+ # -MACHINE-LEARNING-MODEL-IMPLEMENTATION                                                                                                                                                                                * COMPANY:CODETECH IT SOLUTIONS
+* NAME: GORRE HARSHA VARDHAN REDDY
+* INTERN ID: CT04DG557
+* DOMAIN: PYTHON PROGRAMING
+* DURATION: 4 WEEKS
+* MENTOR: NEELA SANTOSH
+* YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK(AND IT SHOULD NOT BE LESS THAN 500 WORDS)
+ 
